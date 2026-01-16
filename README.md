@@ -44,12 +44,12 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 **Open the Notebook:** 
 
-Launch Netflix_EDA_Notebook.ipynb in Jupyter/Colab or Kaggle.
+Launch Netflix_EDA_Notebook.ipynb in Jupyter or Colab 
 
 ## 📂 Dataset
 The data is sourced from the Kaggle Netflix Movies and TV Shows dataset. It includes over 8,800 records of content available on the platform as of 2021.
 
-DatasetLink: (https://www.kaggle.com/datasets/shivamb/netflix-shows/code?datasetId=434238&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false)
+Raw Dataset Link: (https://www.kaggle.com/datasets/shivamb/netflix-shows/code?datasetId=434238&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false)
 
 ## 📝 Conclusion
 This project successfully bridges the gap between raw data and automated decision-making. By leveraging Linear Algebra and Feature Engineering, I have created a scalable system that moves beyond simple search filters to provide mathematically-backed recommendations.
