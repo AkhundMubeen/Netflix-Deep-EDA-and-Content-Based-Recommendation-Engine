@@ -1,5 +1,5 @@
 # Netflix Analytics: From Data Insights to Vector-Based Recommendations
-## 📌 Project Overview
+## Project Overview
 
 Author: Mubeen Akhund  
 Focus: Data Cleaning, Exploration, basic Feature Enginerring, One-Hot Encoding and Understanding  
@@ -13,7 +13,7 @@ This project explores the Netflix library through 40+ analytical lenses and impl
 
 ***Mathematical Modeling:*** Engineered a 36-dimensional feature matrix using One-Hot Encoding and Min-Max scaling.
 
-## 🧠 Technical Deep Dive: Backend Logic
+## Technical Deep Dive: Backend Logic
 Following my core development philosophy, here is how the recommendation engine functions at a hardware and logical level:
 
 **The "Brain" of the Recommender: Vector Space Alignment**
@@ -32,7 +32,7 @@ sim_matrix = cosine_similarity(genre_features)
 0.0 (Orthogonal): No common attributes.
 
 
-## 🛠️ How to Run
+## How to Run
 
 **Clone the repository:**
 
@@ -46,7 +46,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 Launch Netflix_EDA_Notebook.ipynb in Jupyter or Colab 
 
-## 📂 Dataset
+## Dataset
 The data is sourced from the Kaggle Netflix Movies and TV Shows dataset. It includes over 8,800 records of content available on the platform as of 2021.
 
 Raw Dataset Link: (https://www.kaggle.com/datasets/shivamb/netflix-shows/code?datasetId=434238&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false)
